@@ -1,2 +1,3 @@
 # hello-dba
-Starting
+Hi guys,
+We are here and enjoy the coding.
